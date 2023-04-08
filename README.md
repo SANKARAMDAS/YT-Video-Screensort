@@ -1,6 +1,6 @@
 # YT-Video-Screensort
 
-Hustle free Screensort Tool for YT videos
+Hustle free Screenshot Tool for YT videos
 
 
 
