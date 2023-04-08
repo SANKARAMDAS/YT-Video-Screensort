@@ -1,4 +1,4 @@
-# YT-Video-Screensort
+# YT-Video-Screensort-Tool Firefox extension 
 
 Hustle free Screenshot Tool for YT videos
 
