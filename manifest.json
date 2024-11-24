@@ -1,17 +1,17 @@
 {
 	"manifest_version": 2,
 	"version": "1.3.0",
-	"name": "YT video screenshot addon",
-	"description": "on the YT video settings, add a Screenshot button",
-	"author": "san.d",
+	"name": "YouTube Image Capture addon",
+	"description": "After adding it to Firefox as an extension, on the YouTube setting it'll add a Screenshot option",
+	"author": "San.D",
 	"icons": {
-        "32": "icons/logo_32.png",
-        "64": "icons/logo_64.png"
+        "32": "icons/img_2x.png",
+        "64": "icons/img_3x.png"
     },
 	"content_scripts": [
 		{
 			"matches": ["*://*.youtube.com/*"],
-			"js": ["yt_screensort.js"],
+			"js": ["yT_ss.js"],
 			"run_at": "document_end"
 		}
 	]
